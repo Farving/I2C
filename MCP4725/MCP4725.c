@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <stdbool.h>       // Includes true/false definition
 
-#include "../Includes/bb_i2c/bb_i2c.h"
+#include "../i2c_serial/i2c.h"
 #include "MCP4725.h"
 
 /** Functions ************************************************************************************/

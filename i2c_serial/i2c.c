@@ -4,7 +4,8 @@
 #include <stdio.h>
 #include <stdbool.h>       // Includes true/false definition
 
-#include "bb_i2c.h"
+#include "config.h"
+#include "i2c.h"
 
 /** Functions ************************************************************************************/
 void I2C_Init()

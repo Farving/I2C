@@ -1,4 +1,4 @@
-i2c
+I2C
 ===
 
-Low level peripheral i2c library
+Low level peripheral I2C library
